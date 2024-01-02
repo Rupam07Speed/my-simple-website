@@ -6,3 +6,10 @@
     font-style: oblique;
     font: lightseagreen;
 }
+.back{
+    background-color: cadetblue;
+    border: 10px;
+}
+.s{
+    padding: 20px;
+}
